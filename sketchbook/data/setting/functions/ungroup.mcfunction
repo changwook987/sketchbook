@@ -1,0 +1,1 @@
+execute as @e[tag=group1] run tag @s remove group1
